@@ -1,0 +1,7 @@
+nltk
+numpy
+scipy
+sklearn
+word2vec
+adjustText
+matplotlib
