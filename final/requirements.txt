@@ -1,0 +1,3 @@
+pandas==0.18.1
+numpy==1.12.1
+xgboost==0.6
